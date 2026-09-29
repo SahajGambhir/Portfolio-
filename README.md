@@ -28,7 +28,3 @@ I am interested in programming, Artificial Intelligence, Machine Learning, Web D
 - CSS3
 - Git
 - GitHub
-
-├── style.css
-├── sahaj.png
-└── README.md
